@@ -5,7 +5,7 @@
   }
 
   body {
-      color: #FCD5CE;
+      color: #F8EDEB;
       font-family: Georgia, 'Times New Roman', Times, serif
   }
 
@@ -43,16 +43,30 @@
   }
   
   footer {
-    background: #FFb5A7;
+    background: #F08080;
     width: 100%;
     padding: 40px 35px;
-    text-align: center;
-    font-style: italic;
   }
 
   footer h2 {
     display: inline;
     color: #F8EDEB;
-    font-size: 20px;
+    font-size: 25px;
     margin: 0;
+  }
+
+  section {
+      padding: 60px;
+  }
+
+  .hero {
+    background-image: url("../images/nyc-skyline.jpg");
+    height: 600px;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+  }
+
+  .intro {
+      color: #FFb5A7;
   }
