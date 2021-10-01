@@ -46,6 +46,7 @@
     background: #F08080;
     width: 100%;
     padding: 40px 35px;
+    text-align: center;
   }
 
   footer h2 {
@@ -53,6 +54,7 @@
     color: #F8EDEB;
     font-size: 25px;
     margin: 0;
+    
   }
 
   section {
